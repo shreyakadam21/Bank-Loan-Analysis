@@ -30,3 +30,6 @@ Bad Loan KPIs:
 - Bad Loan Applications: Identify the total number of 'Bad Loan' applications.
 - Bad Loan Funded Amount: Determine the total amount of funds disbursed as 'Bad Loans'.
 - Bad Loan Total Received Amount: Track the total amount received from borrowers for 'Bad Loans'.
+
+# Loan Status Grid View
+To gain a comprehensive overview of our lending operations, we will create a grid view report categorized by 'Loan Status'. This report will analyze key indicators associated with different loan statuses, including 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'MTD Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI)'.
