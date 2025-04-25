@@ -19,17 +19,17 @@ In order to monitor and assess our bank's lending activities and performance, we
 5. Average Debt-to-Income Ratio (DTI): Evaluate the average DTI for borrowers, compute the average DTI for all loans, MTD, 
   and track MoM fluctuations.
 # Good Loan vs. Bad Loan KPIs
-Good Loan KPIs:
+**Good Loan KPIs:**
 - Good Loan Application Percentage: Calculate the percentage of loan applications classified as 'Good Loans' (status: 'Fully Paid' and 'Current').
 - Good Loan Applications: Identify the total number of 'Good Loan' applications.
 - Good Loan Funded Amount: Determine the total amount of funds disbursed as 'Good Loans'.
 - Good Loan Total Received Amount: Track the total amount received from borrowers for 'Good Loans'.
   
-Bad Loan KPIs:
+**Bad Loan KPIs:**
 - Bad Loan Application Percentage: Calculate the percentage of loan applications categorized as 'Bad Loans' (status: 'Charged Off').
 - Bad Loan Applications: Identify the total number of 'Bad Loan' applications.
 - Bad Loan Funded Amount: Determine the total amount of funds disbursed as 'Bad Loans'.
 - Bad Loan Total Received Amount: Track the total amount received from borrowers for 'Bad Loans'.
 
-# Loan Status Grid View
+**Loan Status Grid View**
 To gain a comprehensive overview of our lending operations, we will create a grid view report categorized by 'Loan Status'. This report will analyze key indicators associated with different loan statuses, including 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'MTD Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI)'.
