@@ -99,8 +99,10 @@ Objective: This tree map will display loan metrics categorized by different home
 
 This README file outlines the structure and objectives of our Bank Loan Report, detailing the KPIs and chart types used in each dashboard. It serves as a guide for understanding how we monitor, assess, and visualize our lending activities to make informed, data-driven decisions.
 
-**Summary Dashboard
+**Summary Dashboard**
+
 ![Screenshot 2025-04-25 160337](https://github.com/user-attachments/assets/3d640bf2-13cc-44e4-9f4a-4edbe6f77c5e)
 
-Overview Dashboard**
+**Overview Dashboard**
+
 ![Screenshot 2025-04-25 160410](https://github.com/user-attachments/assets/28d69ae8-35e8-4f6a-9f19-e6af38650a39)
