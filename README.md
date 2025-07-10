@@ -34,7 +34,7 @@ In order to monitor and assess our bank's lending activities and performance, we
 **Loan Status Grid View**
 
 To gain a comprehensive overview of our lending operations, we will create a grid view report categorized by 'Loan Status'. This report will analyze key indicators associated with different loan statuses, including 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'MTD Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI)'.
-# Dashboard 1: Overview
+# Dashboard 2: Overview
 In our Bank Loan Report project, we aim to visually represent critical loan-related metrics and trends using various chart types to facilitate data-driven decision-making.
 **1. Monthly Trends by Issue Date (Line Chart):**
 Chart Type: Line Chart
